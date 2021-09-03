@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A trying to be a full developer from India..</h3>
+<h3 align="center">A trying to be a full stack developer from India..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingmickey&label=Profile%20views&color=35b0fd&style=flat" alt="codingmickey" /> </p>
 
