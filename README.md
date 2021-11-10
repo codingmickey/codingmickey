@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingmickey&label=Profile%20views&color=35b0fd&style=flat" alt="codingmickey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingmickey" alt="codingmickey" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/codingmickey" target="blank"><img src="https://img.shields.io/twitter/follow/codingmickey?logo=twitter&style=for-the-badge" alt="codingmickey" /></a> </p>
 
