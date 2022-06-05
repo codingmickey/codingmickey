@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/codingmickey" target="blank"><img src="https://img.shields.io/twitter/follow/codingmickey?logo=twitter&style=for-the-badge" alt="codingmickey" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **what that I also don't know ssly**
 
-- 👯 I’m looking to collaborate on **Basic full Stack Projects**
+- 👯 I’m looking to collaborate on **Full stack MERN projects**
 
-- 💬 Ask me about **anything that you doubts about**
+- 💬 Ask me about **any doubts _hehe_**
 
 - 📫 How to reach me **kjmickey003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing](https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing)
 
-- ⚡ Fun fact **I can solve a Rubik's Cube 🎉**
+- ⚡ Fun fact **I can solve a Rubik's Cube 🎉 and leraning to play Piano 🎹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
