@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br /><br /><br />
 <hr />
 
-<img alt="typing" align="right" height="250" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+<img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 <h3 align="left">Languages and Tools:</h3>
 
