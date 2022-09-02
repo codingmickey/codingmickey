@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/codingmickey">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingmickey&theme=dracula" />
 </a>
+<br /><br />
 <a href="https://github.com/codingmickey">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" />
 </a>
