@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
 
-<img alt="GIF" align="right" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
+<img alt="GIF" align="right" height="275" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
 <p align="left"> <a href="https://twitter.com/codingmickey" target="blank"><img src="https://img.shields.io/twitter/follow/codingmickey?logo=twitter&style=for-the-badge" alt="codingmickey" /></a> </p>
 
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing](https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing)
 
 - ⚡ Fun fact **I can solve a Rubik's Cube 🎉 and leraning to play Piano 🎹**
+
+- ⌨️ Like typing, **avg wpm: 90**
 
 <hr />
 <img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
 <br /><br /><br />
 <hr />
 
-<img alt="typing" align="right" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+<img alt="typing" align="right" height="250" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -61,4 +63,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&" alt="codingmickey" /></p>
+<hr />
+<!--
+[![Kartis's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmickey&theme=dracula)](https://github.com/codingmickey)
+-->
+<div align="center">
+<a href="https://github.com/codingmickey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingmickey&theme=dracula" />
+</a>
+<a href="https://github.com/codingmickey">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" />
+</a>
+</div>
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" alt="codingmickey" /></p>
+-->
