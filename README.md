@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
 
-<img alt="GIF" align="right" height="275" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
+<img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
 <p align="left"> <a href="https://twitter.com/codingmickey" target="blank"><img src="https://img.shields.io/twitter/follow/codingmickey?logo=twitter&style=for-the-badge" alt="codingmickey" /></a> </p>
 
@@ -55,9 +55,13 @@ Here are some ideas to get you started:
 <br /><br /><br />
 <hr />
 
-<img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+
+
 
 <h3 align="left">Languages and Tools:</h3>
+
+<img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,java,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,react,redis,redux,ts&perline=7)](https://skillicons.dev)
 
@@ -82,3 +86,7 @@ Here are some ideas to get you started:
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" alt="codingmickey" /></p>
 -->
+
+<hr />
+
+[![@codingmickey's Holopin board](https://holopin.me/codingmickey)](https://holopin.io/@codingmickey)
