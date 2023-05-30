@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Am trying to be a full stack developer from India..</h3>
 
-
 <img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
-<p align="left"> <a href="https://twitter.com/codingmickey" target="blank"><img src="https://img.shields.io/twitter/follow/codingmickey?logo=twitter&style=for-the-badge" alt="codingmickey" /></a> </p>
+<p align="left">
+<!-- <img src="https://komarev.com/ghpvc/?username=codingmickey&label=Profile%20views&color=0e75b6&style=flat" alt="codingmickey's profile views" /> -->
+ 
+  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/codingmickey.svg?style=social&label=Follow%20%40codingmickey)](https://twitter.com/codingmickey)
+</p>
 
 - 🌱 I’m currently learning **what that I also don't know ssly**
 
