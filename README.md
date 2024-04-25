@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kjmickey003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing](https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10T3P4vdhoyRpBl2bFz3wskliGJC90CZe/view?usp=drivesdk](https://drive.google.com/file/d/10T3P4vdhoyRpBl2bFz3wskliGJC90CZe/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can solve a Rubik's Cube 🎉 and leraning to play Piano 🎹**
 
